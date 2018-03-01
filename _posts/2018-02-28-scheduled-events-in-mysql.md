@@ -10,7 +10,6 @@ comments: true
 ---
 
 ## Justification
-
 There are many options for scheduling events.  Cron in Linux, scheduler in windows, every queueing systems has a built in schedule and then there are homegrown while loops. So why should you consider Mysql event.
 * Mysql is often already in your application
 * Its OS agnostic. It works the same whether its linux or windows
