@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-Some information about you!
+I've been developing software professionally for the past 25 years. I enjoy working with data whether its making fast queries, creating data visualizations or data analytics.  I enjoy finding novel approaches to difficult problems.
 
-### More Information
+### My favorite techs are
+Angular 2+
+node.js
+Python when working with open-cv
+redis
+postgresql/postgis
 
-A place to include any other types of information that you'd like to include about yourself.
+But I've worked with a lot more than that.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[atlantageek@gmail.com](mailto:atlantageek@gmail.com)
