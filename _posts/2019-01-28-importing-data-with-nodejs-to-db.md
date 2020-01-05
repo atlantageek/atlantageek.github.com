@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Importing data with node.js into db"
+title: "Importing data with node.js into DB"
 categories:
 - programming
 - mysql
